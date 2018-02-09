@@ -56,7 +56,9 @@ The following is currently the shortest path to installing gevent on OS X using 
 
     brew install libev
 
-#. Then follow the above instructions.
+#. Install locust via pip::
+
+    pip install --user locustio
 
 Increasing Maximum Number of Open Files Limit
 ---------------------------------------------
